@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
         <div className="torch-container">
           <div className="flame-container">
-            <div className="flame"></div>
+            <div className="flame--glow"></div>
           </div>
           <div className="handle-container">
             <div className="handle"></div>
