@@ -9,3 +9,31 @@
   border: 1px solid white;
   position: relative;
 }
+.flame-container {
+  position: absolute;
+  z-index: 1;
+  top: 10%;
+  left: 25%;
+  width: 75px;
+  height: 75px;
+  /* border: 2px solid red; */
+}
+.flame {
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background-color: orange;
+  
+}
+.handle-container {
+  position: absolute;
+  top: 35%;
+  left: 42.5%;
+  width: 20px;
+  height: 150px;
+  border: 2px solid brown;
+
+}
+.handle {
+
+}
