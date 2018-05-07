@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+.App {
+  text-align: center;
+}
+.torch-container {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 150px;
+  height: 250px;
+  border: 1px solid white;
+  position: relative;
+}
